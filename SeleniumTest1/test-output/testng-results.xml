@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35945" started-at="2018-11-07T00:23:57Z" finished-at="2018-11-07T00:24:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35945" started-at="2018-11-07T00:23:57Z" finished-at="2018-11-07T00:24:33Z">
+      <class name="com.test.Test1Test">
+        <test-method status="PASS" signature="SetUpMethod()[pri:0, instance:com.test.Test1Test@1877ab81]" name="SetUpMethod" is-config="true" duration-ms="5485" started-at="2018-11-07T00:23:57Z" finished-at="2018-11-07T00:24:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method status="PASS" signature="test_Page_Title()[pri:0, instance:com.test.Test1Test@1877ab81]" name="test_Page_Title" duration-ms="3556" started-at="2018-11-07T00:24:02Z" finished-at="2018-11-07T00:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Page_Title -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.test.Test1Test@1877ab81]" name="Close" is-config="true" duration-ms="0" started-at="2018-11-07T00:24:06Z" finished-at="2018-11-07T00:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="SetUpMethod()[pri:0, instance:com.test.Test1Test@1877ab81]" name="SetUpMethod" is-config="true" duration-ms="4394" started-at="2018-11-07T00:24:06Z" finished-at="2018-11-07T00:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method status="PASS" signature="test_Login_InvalidCredentials()[pri:1, instance:com.test.Test1Test@1877ab81]" name="test_Login_InvalidCredentials" duration-ms="10348" started-at="2018-11-07T00:24:10Z" finished-at="2018-11-07T00:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login_InvalidCredentials -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.test.Test1Test@1877ab81]" name="Close" is-config="true" duration-ms="1" started-at="2018-11-07T00:24:21Z" finished-at="2018-11-07T00:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="SetUpMethod()[pri:0, instance:com.test.Test1Test@1877ab81]" name="SetUpMethod" is-config="true" duration-ms="4646" started-at="2018-11-07T00:24:21Z" finished-at="2018-11-07T00:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpMethod -->
+        <test-method status="PASS" signature="test_FAQ_Page()[pri:2, instance:com.test.Test1Test@1877ab81]" name="test_FAQ_Page" duration-ms="7482" started-at="2018-11-07T00:24:25Z" finished-at="2018-11-07T00:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_FAQ_Page -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.test.Test1Test@1877ab81]" name="Close" is-config="true" duration-ms="1" started-at="2018-11-07T00:24:33Z" finished-at="2018-11-07T00:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- com.test.Test1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
